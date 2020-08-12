@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<data:FailedTransaction xmlns:data="urn:data.Editor.Agentry.Syclo">
+ <ErrorInfo>Transaction Failure Exception, Fatality = 0, NotificationTitle = &quot;JavaBackEndError&quot;, NotificationText = &quot;Z_PostPickingListsSteplet - Deficit of SL Unrestricted-use 1 PCE : 1028946 GK01 GK01&#13;
+&quot;</ErrorInfo>
+ <EditorVersion>17.4.0.23</EditorVersion>
+ <PublisherVersion>17.4.0.23</PublisherVersion>
+ <ObjectUniqueID>0000009000000582</ObjectUniqueID>
+ <ObjectOriginalUniqueID></ObjectOriginalUniqueID>
+ <Timestamp>21/03/2018 09:06:11</Timestamp>
+ <data:PropertyProperty TypeID="15" ObjectValue="Z_PickingListItemPost">
+  <data:ID ID="1" TypeID="14">10289460007729339</data:ID>
+  <data:PickingListNumber ID="2" TypeID="14">0000009000000582</data:PickingListNumber>
+  <data:Material ID="3" TypeID="14">1028946</data:Material>
+  <data:MaterialDesc ID="4" TypeID="14"/>
+  <data:StorageLocation ID="5" TypeID="14">GK01</data:StorageLocation>
+  <data:StorageBin ID="6" TypeID="14">H0433065</data:StorageBin>
+  <data:RemainingQty ID="7" TypeID="14">3e0</data:RemainingQty>
+  <data:UOM ID="8" TypeID="14">PCE</data:UOM>
+  <data:ReservationNbr ID="9" TypeID="14">0007729339</data:ReservationNbr>
+  <data:BatchNo ID="10" TypeID="14"/>
+  <data:Vendor ID="11" TypeID="14"/>
+  <data:Quantity ID="12" TypeID="14">3e0</data:Quantity>
+  <data:IsPicked ID="13" TypeID="14">true</data:IsPicked>
+  <data:IsInThreshold ID="14" TypeID="14">false</data:IsInThreshold>
+  <data:ThresholdCount ID="15" TypeID="14">0</data:ThresholdCount>
+  <data:Plant ID="16" TypeID="14">GK01</data:Plant>
+  <data:DestinationLoc ID="17" TypeID="14">material 946</data:DestinationLoc>
+  <data:DestinationBin ID="18" TypeID="14"/>
+  <data:ScannedMaterial ID="19" TypeID="14">1028946</data:ScannedMaterial>
+  <data:LocationBin ID="20" TypeID="14">GK01H0433065</data:LocationBin>
+  <data:IsManualComplete ID="21" TypeID="14">true</data:IsManualComplete>
+  <data:SrcBatchNo ID="22" TypeID="14"/>
+  <data:MovementType ID="23" TypeID="14">261</data:MovementType>
+  <data:DeliveryStatus ID="24" TypeID="14">COMPLETED</data:DeliveryStatus>
+  <data:CountDate ID="25" TypeID="14">i</data:CountDate>
+  <data:AvailStock ID="26" TypeID="14">2e0</data:AvailStock>
+  <data:ZeroCount ID="27" TypeID="14">false</data:ZeroCount>
+  <data:IsEdited ID="28" TypeID="14">true</data:IsEdited>
+  <data:IsSkip ID="29" TypeID="14">false</data:IsSkip>
+  <data:IsPost ID="30" TypeID="14">true</data:IsPost>
+  <data:DeliveryBin ID="31" TypeID="14">t45</data:DeliveryBin>
+  <data:Z_Consigned ID="32" TypeID="14">false</data:Z_Consigned>
+  <data:IsDelivery ID="33" TypeID="14">false</data:IsDelivery>
+ </data:PropertyProperty>
+</data:FailedTransaction>
